@@ -1,0 +1,19 @@
+{
+  "name": "myfirstapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KipiJl-KyBaJlDa/MyFirstAPI.git"
+  },
+  "author": "aboba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KipiJl-KyBaJlDa/MyFirstAPI/issues"
+  },
+  "homepage": "https://github.com/KipiJl-KyBaJlDa/MyFirstAPI#readme"
+}
